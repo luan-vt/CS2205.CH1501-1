@@ -6,7 +6,9 @@
 ## PHƯƠNG PHÁP NGHIÊN CỨU KHOA HỌC
 
 Trần Anh Tuấn - CH2001018 - https://github.com/tuananht/CS2205.CH1501
+
 Văn Thiên Luân - CH2001008 - https://github.com/luan-vt/CS2205.CH1501
+
 Nguyễn Ngọc Thừa - CH2001017
 
 ### Định hướng khi học môn học này
