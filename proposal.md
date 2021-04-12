@@ -42,7 +42,7 @@ Trường ĐH X muốn khắc phục tình trạng sinh viên bỏ học nữa c
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tìm hiểu vấn đề thông qua các khảo sát từ đối tượng quan tâm - sinh viên. Thông qua những khảo sát để đánh giá thực trạng hiện tại.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phối hợp với Ký túc xá, các chủ cơ sở nhà trọ nhằm quan sát đời sống của sinh viên những lúc không ở trường học có biểu hiện như thế nào.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sinh viên năm thứ 3, 4 thường hay đi làm sớm, dẫn tới việc nghỉ học. Vì vậy, đưa ra các giải pháp liên kết với các công ty để đưa việc đi làm này là một môn học.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kiểm tra lại chương trình học.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kiểm tra lại chương trình học.
 ##### 2. Ứng dụng kết quả
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qua việc nghiên cứu từ các phương pháp đã đề xuất, áp dụng thí điểm vào một nhóm đối tượng đã được khoanh vùng. Sau một thời gian mở rộng đối tượng này, tiến tới áp dụng cho toàn bộ sinh viên ở trong trường đại học.
 ##### 2. Kinh phí
