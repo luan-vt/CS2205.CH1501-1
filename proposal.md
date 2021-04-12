@@ -34,3 +34,10 @@ Trường ĐH X muốn khắc phục tình trạng sinh viên bỏ học nữa c
    - Sinh viên năm 3, 4 và nhu cầu đi làm.
    Qua tìm hiểu các yếu tố đó, đưa ra các giải pháp và cách khắc phục cho vấn đề.
    
+#### III. TỔNG QUAN Y VĂN
+   
+#### IV. PHƯƠNG PHÁP
+##### 1. Ứng dụng kết quả
+
+##### 2. Kinh phí
+#### V. TÀI LIỆU THAM KHẢO
