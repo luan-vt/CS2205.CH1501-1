@@ -23,8 +23,8 @@ Trường ĐH X muốn khắc phục tình trạng sinh viên bỏ học nữa c
 </p>
 
 #### I. MỞ ĐẦU
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hiện tại, một số trường Đại học có tình trạng sinh viên bỏ học giữa chừng diễn ra khá phổ biến. Điển hình tại trường Đại học X, tình trạng được đặt lên mức dáng báo động và cần phải có hướng khắc phục. Hằng năm, vào thời điểm bắt đầu của mỗi học kỳ, tỉ lệ sinh viên bỏ học giữa chừng rất cao, tập trung phổ biến diễn ra ở sinh viên năm thứ 3 và 4.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trường Đại học X đã thành tập ban nghiên cứu để thực hiện việc nghiên cứu vì sao xuất hiện tình trạng này và cách khắc phục tình trạng trên. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hiện tại, một số trường Đại học có tình trạng sinh viên bỏ học giữa chừng diễn ra khá phổ biến. Điển hình tại trường Đại học X, tình trạng được đặt lên mức đáng báo động và cần phải có hướng khắc phục. Hằng năm, vào thời điểm bắt đầu của mỗi học kỳ, tỉ lệ sinh viên bỏ học giữa chừng rất cao, tập trung phổ biến diễn ra ở sinh viên năm thứ 3 và 4.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trường Đại học X đã thành tập ban nghiên cứu để thực hiện việc nghiên cứu vì sao xuất hiện tình trạng này, cách khắc phục tình trạng trên. Và ứng dụng thực tế cho trường Đại học X.
 
 #### II. MỤC TIÊU NGHIÊN CỨU
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Việc thành lập ban nghiên cứu nhằm tìm hiểu nguyên nhân vì sao sinh viên bỏ học giữa chừng. Tìm hiểu các yếu tố ảnh hưởng, tác động tới sinh viên. Một số yếu tố nhóm nghiên cứu cần quan tâm như:
@@ -44,7 +44,8 @@ Trường ĐH X muốn khắc phục tình trạng sinh viên bỏ học nữa c
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sinh viên năm thứ 3, 4 thường hay đi làm sớm, dẫn tới việc nghỉ học. Vì vậy, đưa ra các giải pháp liên kết với các công ty để đưa việc đi làm này là một môn học.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kiểm tra lại chương trình học.
 ##### 2. Ứng dụng kết quả
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qua việc nghiên cứu từ các phương pháp đã đề xuất, áp dụng thí điểm vào một nhóm đối tượng đã được khoanh vùng. Sau một thời gian mở rộng đối tượng này, tiến tới áp dụng cho toàn bộ sinh viên ở trong trường đại học.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qua việc nghiên cứu từ các phương pháp đã đề xuất, yêu cầu nhóm nghiên cứu áp dụng thí điểm vào một nhóm đối tượng đã được khoanh vùng. Sau một thời gian mở rộng đối tượng này, đánh giá mức độ khả thi của việc áp dụng phương pháp đề xuất vào nhóm đối tượng, lấy khảo sát để tiết hành nghiên cứu khắc phục những nhược điểm của phương pháp, tìm cách cải tạo, nâng cao hiệu quả của phương pháp.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sau khi áp dụng thí điểm thành công, thực hiện áp dụng vào sinh viên trường Đại học X, tiến tới nhân rộng phương pháp cho các trường đại học khác.
 ##### 2. Kinh phí
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nhóm nghiên cứu cần phải dự toán trước kinh phí để trường đại học phê duyệt ngân sách, các chi phí có thể bao gồm:
 - Các hoạt động khảo sát: tạo phiếu khảo sát, nội dung khảo sát, chi phí thực hiện khảo sát, đưa khảo sát tới các đối tượng, tổng hợp, thống kê khảo sát.
@@ -52,3 +53,4 @@ Trường ĐH X muốn khắc phục tình trạng sinh viên bỏ học nữa c
 - Đề xuất giải pháp.
 - Thí điểm khảo sát.
 #### V. TÀI LIỆU THAM KHẢO
+
