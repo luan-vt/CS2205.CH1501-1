@@ -9,7 +9,7 @@ Trần Anh Tuấn - CH2001018 - https://github.com/tuananht/CS2205.CH1501
 
 Văn Thiên Luân - CH2001008 - https://github.com/luan-vt/CS2205.CH1501
 
-Nguyễn Ngọc Thừa - CH2001017
+Nguyễn Ngọc Thừa - CH2001017 - https://github.com/ngocthua830/CS2205.CH1501
 
 ### Định hướng khi học môn học này
 - Hoàn thành môn học xuất sắc
